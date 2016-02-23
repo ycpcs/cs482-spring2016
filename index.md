@@ -18,6 +18,7 @@ All information about the course will be posted here.
 * **Jan 25  - NO CLASS INCLEMENT WEATHER** 
 * **Feb 1** - Welcome back!
 * **Feb 8** - Milestone 1 - Formal Proposal Due.
+* **Mar 14 - Minimal Working System Demo Due.**
 
 <!--
 * **Mar 16 - Minimal Working System Demo Due.**
